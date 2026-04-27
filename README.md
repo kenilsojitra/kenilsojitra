@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Kenil Sojitra
 
-<!--
-**kenilsojitra/kenilsojitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 AI/ML Developer | Backend Engineer | Building RAG & LLM Systems  
+⚡ Turning ideas into scalable AI products  
+📍 Gujarat, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🧠 Working on **LLMs, RAG Systems & AI Agents**
+- ⚙️ Strong in **Python, FastAPI, Django**
+- 🕸️ Experience with **Web Scraping (Selenium, Scrapy)**
+- 📊 Love working with **Data & Automation**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Python | JavaScript | SQL
+
+### 🤖 AI / ML
+- Scikit-learn | Pandas | NumPy | Matplotlib
+- LLM | RAG | LangChain | Vector DB
+
+### 🌐 Backend
+- Django | FastAPI | REST APIs
+
+### ⚡ Tools
+- Git | Docker | MongoDB | PostgreSQL
+
+---
+
+## 📌 Projects
+
+### 🔹 Local RAG System
+- Private data Q&A system using vector DB
+- Real-time document querying
+
+### 🔹 Web Scraping Engine
+- Multi-threaded scraping system
+- CAPTCHA handling + proxy rotation
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
+- 🌍 Portfolio: YOUR_PORTFOLIO_LINK
