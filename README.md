@@ -51,5 +51,10 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 🌍 Portfolio: YOUR_PORTFOLIO_LINK
+- 💼 LinkedIn: https://www.linkedin.com/in/kenil-sojitra/
+- 🌍 Portfolio: http://kdwebtech.com/
+
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/kenilsojitra/kenilsojitra/blob/output/github-contribution-grid-snake-dark.svg)
